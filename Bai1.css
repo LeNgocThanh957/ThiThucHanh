@@ -22,12 +22,6 @@
     width: 100%;
 }
 
-.text {
-    font-weight: inherit;
-    font-size: 16px;
-    margin-left: 3px;
-}
-
 @media only screen and (max-width: 1200px) {
 
     .listItem {
